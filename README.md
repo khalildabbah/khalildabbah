@@ -24,14 +24,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-1B1B1B?style=for-the-badge&logo=cursor&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🧰 Other Skills
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![API](https://img.shields.io/badge/API%20Integration-%2300599C.svg?style=for-the-badge&logo=postman&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -64,7 +66,7 @@ React web app fetching real-time weather data from APIs.
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalildabbah&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalildabbah&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=khalildabbah&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=khalildabbah&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&sideNums=FFFFFF)
 
 ---
 
