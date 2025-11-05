@@ -66,7 +66,7 @@ React web app fetching real-time weather data from APIs.
 
 ![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalildabbah&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalildabbah&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=khalildabbah&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khalildabbah&theme=tokyonight)
 
 
 ---
