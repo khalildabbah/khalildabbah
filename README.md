@@ -81,8 +81,8 @@ React web app fetching real-time weather data from APIs.
 📍 **Haifa, Israel**  
 📧 **[khalildabbah@gmail.com](mailto:khalildabbah@gmail.com)**  
 💼 [**LinkedIn**](https://www.linkedin.com/in/khalildabbah)  
-💻 [**GitHub**](https://github.com/khalildabbah)
-💻 [**MY portflio**](https://khalil-dabbah.vercel.app/)
+💻 [**GitHub**](https://github.com/khalildabbah)   
+💻 [**My Website**](https://khalil-dabbah.vercel.app/)
 
 ---
 
