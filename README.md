@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Khalil Dabbah!
 
-🎓 **Software Engineering Student | University of Haifa**  
+🎓 **Computer Information Systems Student | University of Haifa**  
 💡 Passionate about AI, Machine Learning, and Full-Stack Development  
 🚀 Constantly building new projects and exploring cloud technologies  
 💡 My personal website:  https://khalil-dabbah.vercel.app/
@@ -49,8 +49,11 @@ Java + SQL desktop system for managing wines, manufacturers, and reports.
 🔹 **[AI Resume Analyzer](https://github.com/khalildabbah/Ai_Resume_Analyzer)**  
 Streamlit app using OpenAI API and AWS to evaluate resumes intelligently.
 
-🔹 **[Weather App](https://github.com/khalildabbah/Weather_App)**  
+🔹 **[Weather App](https://github.com/khalildabbah/Weather-App)**  
 React web app fetching real-time weather data from APIs.
+
+🔹 **[AI newsletter saas APP](https://github.com/khalildabbah/AI-newsletter-saas)**  
+AI generated newsletter & TLDR from any company's blog/RSS feed .
 
 ---
 
